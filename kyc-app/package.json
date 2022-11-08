@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "zeeve-zdfs-sdk": "^1.0.2"
+  }
+}
